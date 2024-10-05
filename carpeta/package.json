@@ -1,0 +1,12 @@
+{
+  "name": "carpeta",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node class1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
