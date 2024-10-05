@@ -1,4 +1,4 @@
-let button = document.getElementById("main_div");
+let button = document.getElementById("main_btn");
 button.addEventListener("click" , function(){
     alert("hola mundo");
 })
